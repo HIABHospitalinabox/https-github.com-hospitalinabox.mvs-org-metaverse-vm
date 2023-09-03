@@ -1,2 +1,2 @@
-# https-github.com-hospitalinabox.mvs-org-metaverse-vm
+# https-github.com-hospitalinabox.mvs-org
 Shiny-Lamp
